@@ -70,10 +70,6 @@ DELETE FROM AGENTS WHERE agent_code = 'A006';
 
 📌 **How to Use**
 
-*Clone the repository:*
-
-*Git clone* https://github.com/Analyzewithasim/SQL_Queries.git
-
 **Import the SQL script into your database management system (MySQL, PostgreSQL, etc.).**
 
 **Execute the queries in the order provided.**
